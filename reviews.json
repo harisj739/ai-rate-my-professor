@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Thornton",
+      "subject": "Biology",
+      "stars": 4,
+      "review": "Dr. Thornton's lectures are engaging and well-structured. She's always willing to help during office hours."
+    },
+    {
+      "professor": "Prof. Michael Chen",
+      "subject": "Computer Science",
+      "stars": 5,
+      "review": "Brilliant instructor! Prof. Chen makes complex concepts easy to understand and provides practical examples."
+    },
+    {
+      "professor": "Dr. Sarah Williams",
+      "subject": "Psychology",
+      "stars": 3,
+      "review": "Decent course content, but Dr. Williams could improve on her presentation skills and student engagement."
+    },
+    {
+      "professor": "Prof. Robert Johnson",
+      "subject": "History",
+      "stars": 5,
+      "review": "Prof. Johnson's passion for history is contagious. His lectures are like time travel experiences!"
+    },
+    {
+      "professor": "Dr. Lisa Martinez",
+      "subject": "Chemistry",
+      "stars": 4,
+      "review": "Dr. Martinez runs a challenging course, but her explanations are clear and she's always available for extra help."
+    },
+    {
+      "professor": "Prof. David Lee",
+      "subject": "Mathematics",
+      "stars": 2,
+      "review": "Prof. Lee seems knowledgeable, but his teaching style is confusing and he rarely answers student questions clearly."
+    },
+    {
+      "professor": "Dr. Amanda Foster",
+      "subject": "English Literature",
+      "stars": 5,
+      "review": "Dr. Foster's enthusiasm for literature is inspiring. Her classes are thought-provoking and encourage critical thinking."
+    },
+    {
+      "professor": "Prof. James Wilson",
+      "subject": "Physics",
+      "stars": 3,
+      "review": "Prof. Wilson knows his subject well, but sometimes struggles to explain complex concepts to non-physics majors."
+    },
+    {
+      "professor": "Dr. Olivia Brown",
+      "subject": "Sociology",
+      "stars": 4,
+      "review": "Dr. Brown's classes are eye-opening. She encourages healthy debates and brings current events into discussions."
+    },
+    {
+      "professor": "Prof. Thomas Garcia",
+      "subject": "Economics",
+      "stars": 5,
+      "review": "Prof. Garcia makes economics fascinating! His real-world examples and clear explanations are extremely helpful."
+    },
+    {
+      "professor": "Dr. Rachel Kim",
+      "subject": "Art History",
+      "stars": 4,
+      "review": "Dr. Kim's lectures are like guided tours through art museums. Her passion for the subject is evident."
+    },
+    {
+      "professor": "Prof. Daniel Taylor",
+      "subject": "Political Science",
+      "stars": 3,
+      "review": "Prof. Taylor's course is informative, but his lectures can be dry at times. More interactive sessions would help."
+    },
+    {
+      "professor": "Dr. Jessica Patel",
+      "subject": "Environmental Science",
+      "stars": 5,
+      "review": "Dr. Patel is an excellent educator. Her field trips and hands-on experiments make learning both fun and memorable."
+    },
+    {
+      "professor": "Prof. Christopher Adams",
+      "subject": "Philosophy",
+      "stars": 4,
+      "review": "Prof. Adams challenges students to think critically. His Socratic method of teaching is highly effective."
+    },
+    {
+      "professor": "Dr. Sophia Rodriguez",
+      "subject": "Linguistics",
+      "stars": 2,
+      "review": "Dr. Rodriguez's course material is interesting, but her grading seems arbitrary and feedback is often unclear."
+    },
+    {
+      "professor": "Prof. William Chang",
+      "subject": "Business Administration",
+      "stars": 5,
+      "review": "Prof. Chang brings his industry experience into the classroom, making his courses both practical and insightful."
+    },
+    {
+      "professor": "Dr. Emma Watson",
+      "subject": "Neuroscience",
+      "stars": 4,
+      "review": "Dr. Watson's enthusiasm for neuroscience is infectious. Her lectures are challenging but rewarding."
+    },
+    {
+      "professor": "Prof. Alexander Ivanov",
+      "subject": "Music Theory",
+      "stars": 3,
+      "review": "Prof. Ivanov is clearly knowledgeable, but his teaching pace is sometimes too fast for beginners to follow."
+    },
+    {
+      "professor": "Dr. Natalie Green",
+      "subject": "Anthropology",
+      "stars": 5,
+      "review": "Dr. Green's classes are a perfect blend of theory and fieldwork. Her approach to teaching is truly inspiring."
+    },
+    {
+      "professor": "Prof. Kevin O'Brien",
+      "subject": "Engineering",
+      "stars": 4,
+      "review": "Prof. O'Brien's practical approach to engineering problems is excellent. His industry connections are a great asset."
+    }
+  ]
+}
